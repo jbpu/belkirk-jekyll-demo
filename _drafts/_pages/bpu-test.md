@@ -8,7 +8,7 @@ description: Publicly Operated Utility Company located in Jamestown, NY
 hero_button:
   text: ''
   href: ''
-banner_image: ''
+banner_image: "/uploads/2018/02/17/building2.jpg"
 services: []
 show_news: false
 partners: []
