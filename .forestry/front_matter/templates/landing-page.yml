@@ -1,6 +1,4 @@
 ---
-pages:
-- bpu-test.md
 hide_body: false
 fields:
 - name: title

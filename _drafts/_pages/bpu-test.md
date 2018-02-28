@@ -3,7 +3,7 @@ title: BPU Test
 heading: Jamestown BPU
 sub_heading: Engineering and Health Sciences
 layout: home
-date: 2018-02-28 14:23:40 +0000
+date: 2018-02-28 00:00:00 +0000
 description: Publicly Operated Utility Company located in Jamestown, NY
 hero_button:
   text: ''
@@ -13,6 +13,8 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+tags: []
+related_posts: []
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras euismod blandit hendrerit. Ut posuere sem lorem, sed facilisis ante dapibus viverra. Donec mattis, eros eget eleifend consectetur, eros nisl efficitur eros, sit amet dignissim dui odio eu ligula. Etiam vel eros et lorem pulvinar sagittis eu ut libero. Morbi scelerisque lectus sed odio elementum, non congue magna viverra. Mauris semper condimentum hendrerit. Donec suscipit dictum purus, quis condimentum mi. Nam lacus enim, ultricies a malesuada at, laoreet ut purus. Suspendisse potenti.
 
